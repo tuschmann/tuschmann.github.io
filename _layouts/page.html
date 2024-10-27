@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<head>
+ <link rel="icon" type="image/png" href="../assets/ST.png">
+<link rel="icon" type="image/png" href="https://tuschmann.github.io/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://tuschmann.github.io/assets/favicon-16x16.png" sizes="16x16">
+<title>Sturmius Tuschmann</title>
+<meta charset="{{ site.encoding }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="{{ page.author | default: site.author | escape }}">
+<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+</head>
 <article>
   <header><h1><a href="{{ relative_url }}">{{ page.title }}</a></h1></header>
   {{ content }}
