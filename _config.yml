@@ -1,5 +1,5 @@
 title: "Sturmius Tuschmann"
-author: "Sturmius Tuschmann"
+author: "s.tuschmann23@imperial.ac.uk"
 description: ""
 permalink: /:title/
 lang: "en"
@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:s.tuschmann23@imperial.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/tuschmann"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sturmius-tuschmann"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=MB8iSvUAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
