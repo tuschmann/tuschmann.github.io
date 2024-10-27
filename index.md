@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+permalink: "home"
 ---
 ## About me
 I am a PhD Candidate at the [CDT in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk) jointly run by the University of Oxford and Imperial College London, where I am supervised by [Dr. Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman) and [Prof. Johannes Muhle Karbe](https://www.ma.imperial.ac.uk/~jmuhleka/). I completed my bachelor’s and master’s studies at the University of Münster, complemented by academic visits to the National University of Singapore and Princeton University.
