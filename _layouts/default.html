@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
+
 <link rel="icon" type="image/ico" href="/assets/favicon.ico">
   <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16" />
@@ -31,7 +31,6 @@
 {% else %}
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
-</head>
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
