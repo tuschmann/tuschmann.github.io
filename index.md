@@ -14,6 +14,13 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 <img src="/assets/sturmius_tuschmann.jpg"  alt="" width="40%">
 </div>
 
+## Preprints
 
+<ol>
+  <li>[The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces](http://arxiv.org/abs/2403.18368), with [Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman)  <br />
+  Preprint, 2024</li>
+  <li>[Optimal Portfolio Choice with Cross-Impact Propagators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758), with [Eduardo Abi Jaber](https://sites.google.com/view/abijabereduardo/) and [Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman)<br />
+  Preprint, 2024</li>
+</ol>
 
 
