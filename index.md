@@ -2,6 +2,7 @@
 
 layout: page
 title: ""
+permalink: "/start"
 ---
 
 ## About me
