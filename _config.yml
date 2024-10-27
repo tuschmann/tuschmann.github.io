@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
   - {url: "CV.pdf", title: "CV"}
   - {url: "https://scholar.google.com/citations?user=MB8iSvUAAAAJ&hl=en", title: "Google Scholar"}
   - {url: "https://www.linkedin.com/in/sturmius-tuschmann", title: "LinkedIn"}
