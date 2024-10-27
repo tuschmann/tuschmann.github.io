@@ -4,6 +4,10 @@ layout: page
 title: ""
 
 ---
+<link rel="icon" type="image/png" href="../assets/ST.png">
+<link rel="icon" type="image/png" href="https://tuschmann.github.io/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://tuschmann.github.io/assets/favicon-16x16.png" sizes="16x16">
+<title>Sturmius Tuschmann</title>
 
 ## About me
 I am a PhD Candidate at the [CDT in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk) jointly run by the University of Oxford and Imperial College London, where I am supervised by [Dr. Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman) and [Prof. Johannes Muhle-Karbe](https://www.ma.imperial.ac.uk/~jmuhleka/). Previously, I completed my bachelor’s and master’s studies at the University of Münster, complemented by academic visits to the National University of Singapore and Princeton University.
