@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img style="float: left;" alt="" src="/assets/sturmius_tuschmann.jpg" />
+<img style="float: left;" alt="" src="/assets/sturmius_tuschmann.jpg" width = "30%" />
 <div style="clear: left">
 
 </div>    
