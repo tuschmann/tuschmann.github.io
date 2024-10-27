@@ -2,7 +2,7 @@
 
 layout: page
 permalink: "/"
-title: ""
+title: "Home"
 
 ---
 
