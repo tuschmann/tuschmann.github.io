@@ -19,7 +19,7 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 <ol>
   <li>[The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces](http://arxiv.org/abs/2403.18368), with [Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman)  <br />
   Preprint, 2024</li>
-  <li>[Optimal Portfolio Choice with Cross-Impact Propagators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758), with [Eduardo Abi Jaber](https://sites.google.com/view/abijabereduardo/) and [Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman)<br />
+  <li><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758"> Optimal Portfolio Choice with Cross-Impact Propagators</a>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>)<br />
   Preprint, 2024</li>
   <li><a href="https://arxiv.org/abs/2208.10579">Transversality and framed cobordism</a><br />
   Preprint, 2022</li>
