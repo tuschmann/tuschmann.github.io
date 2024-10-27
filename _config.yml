@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "(/CV.pdf)", title: "CV"}
   - {url: "https://www.linkedin.com/in/sturmius-tuschmann", title: "LinkedIn"}
   - {url: "https://scholar.google.com/citations?user=MB8iSvUAAAAJ&hl=en", title: "Google Scholar"}
-  - {file: "README.md"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:s.tuschmann23@imperial.ac.uk"}
