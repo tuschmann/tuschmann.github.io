@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: ""
+title: "start"
 permalink: "/start"
 ---
 
