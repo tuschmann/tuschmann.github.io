@@ -1,6 +1,7 @@
 ---
 
 layout: page
+permalink: "/start/"
 title: ""
 
 ---
