@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "CV.pdf", title: "CV"}
-  - {url: "https://scholar.google.com/citations?user=MB8iSvUAAAAJ&hl=en", title: "Google Scholar"}
+  - {url: "talks.html", title: "Talks"}
   
   
 
