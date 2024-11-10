@@ -11,7 +11,7 @@ I am a PhD Candidate at the [CDT in Mathematics of Random Systems](https://www.r
 My research interests lie in the areas of mathematical finance and stochastic processes, with a particular focus on optimal trading and market microstructure. I explore these subjects through functional and stochastic analysis, as well as game theory.
 
 <div style="text-align:center;">
-<img src="/assets/sturmius_tuschmann.jpg"  alt="" width="40%">
+<img src="/assets/sturmius_tuschmann.jpg"  alt="" width="50%">
 </div>
 
 ## Preprints
