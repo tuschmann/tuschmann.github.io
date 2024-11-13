@@ -17,13 +17,13 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 ## Preprints
 
 <ol>
-  <li><b><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424"> Stochastic Graphon Games with Memory</a></b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>  <br />
+  <li><b> Stochastic Graphon Games with Memory</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  Preprint, 2024 [<a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424"> SSRN</a> | <a href= "[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424](https://arxiv.org/abs/2411.05896)"> arXiv</a>]</li>
+  <li><b><a href= "http://arxiv.org/abs/2403.18368"> The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces</a></b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024</li>
-  <li><b><a href= "http://arxiv.org/abs/2403.18368"> The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces</a></b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>  <br />
+  <li><b><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758"> Optimal Portfolio Choice with Cross-Impact Propagators</a></b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024</li>
-  <li><b><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758"> Optimal Portfolio Choice with Cross-Impact Propagators</a></b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a><br />
-  Preprint, 2024</li>
-  <li><b><a href="https://arxiv.org/abs/2208.10579">Transversality and framed cobordism</a></b><br />
+  <li><b><a href="https://arxiv.org/abs/2208.10579">Transversality and framed cobordism</a></b>.<br />
   Preprint, 2022</li>
 </ol>
 
