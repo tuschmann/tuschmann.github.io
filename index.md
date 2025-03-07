@@ -17,6 +17,8 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 ## Preprints
 
 <ol>
+  <li><b> Fredholm Approach to Nonlinear Propagator Models</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a>, <a href="https://www.luiss.edu/faculty/356999">Alessandro Bondi</a>, <a href="https://www.linkedin.com/in/nathan-de-carvalho-phd">Nathan De Carvalho</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  Preprint, 2025. [<a href= "https://arxiv.org/abs/2503.04323">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167824">SSRN</a>]</li>
   <li><b> Stochastic Graphon Games with Memory</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024. [<a href= "https://arxiv.org/abs/2411.05896">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424">SSRN</a>]</li>
   <li><b> The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
