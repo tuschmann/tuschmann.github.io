@@ -27,7 +27,7 @@ My research interests lie in the areas of mathematical finance and stochastic pr
   Preprint, 2022. [<a href="https://arxiv.org/abs/2208.10579">arXiv</a>]</li>
 </ol>
 
-## Journal Publications
+## Publications
 
 <ol>
   <li><b> The Mercer-Young Theorem for Matrix-Valued Kernels on Separable Metric Spaces</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
