@@ -23,8 +23,8 @@ My research interests lie in the areas of mathematical finance and stochastic pr
   Preprint, 2024. [<a href= "https://arxiv.org/abs/2411.05896">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424">SSRN</a>]</li>
   <li><b> Optimal Portfolio Choice with Cross-Impact Propagators</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024. [<a href= "https://arxiv.org/abs/2403.10273">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758">SSRN</a>]</li>
-  <li><b>Transversality and framed cobordism</b>.<br />
-  Preprint, 2022. [<a href="https://arxiv.org/abs/2208.10579">arXiv</a>]</li>
+  <! -- <li><b>Transversality and framed cobordism</b>.<br />
+  Preprint, 2022. [<a href="https://arxiv.org/abs/2208.10579">arXiv</a>]</li> -->
 </ol>
 
 ## Publications
