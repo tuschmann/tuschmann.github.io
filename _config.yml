@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "CV.pdf", title: "CV"}
+  - {url: "Sturmius_Tuschmann_CV_webpage.pdf", title: "CV"}
   - {url: "talks.html", title: "Talks"}
   
   
