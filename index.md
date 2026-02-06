@@ -33,7 +33,7 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 
 <ol>
   <li><b> Optimal Portfolio Choice with Cross-Impact Propagators</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
-  To appear in <em>Mathematical Finance</em>, 2026. [<a href= "https://arxiv.org/abs/2403.10273">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758">SSRN</a>]</li>
+  To appear in <em>Mathematical Finance</em> (2026). [<a href= "https://arxiv.org/abs/2403.10273">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758">SSRN</a>]</li>
   <li><b> The Mercer-Young theorem for matrix-valued kernels on separable metric spaces</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   <em>Positivity</em> 29, 35 (2025). [<a href= "https://doi.org/10.1007/s11117-025-01123-1">Article</a> | <a href= "http://arxiv.org/abs/2403.18368">arXiv</a>]</li>
 </ol>
