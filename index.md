@@ -14,9 +14,11 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 <img src="/assets/sturmius_tuschmann.jpg"  alt="" width="50%">
 </div>
 
-## Preprints
+## Publications and Preprints
 
-<ol>
+<ol reversed>
+  <li><b> Stochastic Games on Large Sparse Graphs</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  Preprint, 2026. [<a href= "https://arxiv.org/abs/2602.15557">arXiv</a>]</li>
   <li><b> Nonparametric Estimation of Self- and Cross-Impact</b>, with <a href="https://www.linkedin.com/in/natascha-yvonne-hey/">Natascha Hey</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2025. [<a href= "https://arxiv.org/abs/2510.06879">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5516400">SSRN</a>]</li>
   <li><b> Stochastic Graphon Games with Interventions</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
@@ -25,16 +27,12 @@ My research interests lie in the areas of mathematical finance and stochastic pr
   Preprint, 2025. [<a href= "https://arxiv.org/abs/2503.04323">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167824">SSRN</a>]</li>
   <li><b> Stochastic Graphon Games with Memory</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024. [<a href= "https://arxiv.org/abs/2411.05896">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424">SSRN</a>]</li>
+  <li><b> The Mercer-Young theorem for matrix-valued kernels on separable metric spaces</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  <em>Positivity</em>, Vol. 29, Paper No. 35, 2025. [<a href= "https://doi.org/10.1007/s11117-025-01123-1">Article</a> | <a href= "http://arxiv.org/abs/2403.18368">arXiv</a>]</li>
+  <li><b> Optimal Portfolio Choice with Cross-Impact Propagators</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  <em>Mathematical Finance</em>, to appear. [<a href= "https://arxiv.org/abs/2403.10273">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758">SSRN</a>]</li>
   <!-- <li><b>Transversality and framed cobordism</b>.<br />
   Preprint, 2022. [<a href="https://arxiv.org/abs/2208.10579">arXiv</a>]</li> -->
 </ol>
 
-## Publications
-
-<ol>
-  <li><b> Optimal Portfolio Choice with Cross-Impact Propagators</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
-  <em>Mathematical Finance</em>, to appear. [<a href= "https://arxiv.org/abs/2403.10273">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759758">SSRN</a>]</li>
-  <li><b> The Mercer-Young theorem for matrix-valued kernels on separable metric spaces</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
-  <em>Positivity</em>, Vol. 29, Paper No. 35, 2025. [<a href= "https://doi.org/10.1007/s11117-025-01123-1">Article</a> | <a href= "http://arxiv.org/abs/2403.18368">arXiv</a>]</li>
-</ol>
 
