@@ -17,6 +17,8 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 ## Publications and Preprints
 
 <ol reversed>
+  <li><b> Trading with Uncertainty About Signals and Price Impact</b>, with <a href="https://www.ma.imperial.ac.uk/~jmuhleka/">Johannes Muhle-Karbe</a>.<br />
+  Preprint, 2026. [<a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6275479">SSRN</a>]</li>
   <li><b> Stochastic Games on Large Sparse Graphs</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2026. [<a href= "https://arxiv.org/abs/2602.15557">arXiv</a>]</li>
   <li><b> Nonparametric Estimation of Self- and Cross-Impact</b>, with <a href="https://www.linkedin.com/in/natascha-yvonne-hey/">Natascha Hey</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
