@@ -17,6 +17,8 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 ## Publications and Preprints
 
 <ol reversed>
+  <li><b> Optimal Execution with Passive Market Impact</b>, with <a href="https://www.linkedin.com/in/alexander-barzykin-b430ab33/">Alexander Barzykin</a>, <a href="https://www.linkedin.com/in/robert-boyce-392546171/">Robert Boyce</a>, and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  Preprint, 2026. [<a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7147361">SSRN</a>]</li>
   <li><b> Potential Games on Unimodular Random Graphs</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2026. [<a href= "https://arxiv.org/abs/2604.13836">arXiv</a>]</li>
   <li><b> Trading with Uncertainty About Signals and Price Impact</b>, with <a href="https://www.ma.imperial.ac.uk/~jmuhleka/">Johannes Muhle-Karbe</a>.<br />
@@ -27,7 +29,7 @@ My research interests lie in the areas of mathematical finance and stochastic pr
   Preprint, 2025. [<a href= "https://arxiv.org/abs/2510.06879">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5516400">SSRN</a>]</li>
   <li><b> Stochastic Graphon Games with Interventions</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2025. [<a href= "https://arxiv.org/abs/2507.00561">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5332852">SSRN</a>]</li>
-  <li><b> Fredholm Approach to Nonlinear Propagator Models</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a>, <a href="https://sites.google.com/view/alessandrobondi/home">Alessandro Bondi</a>, <a href="https://www.linkedin.com/in/nathan-de-carvalho-phd">Nathan De Carvalho</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  <li><b> Fredholm Approach to Nonlinear Propagator Models</b>, with <a href="https://sites.google.com/view/abijabereduardo/">Eduardo Abi Jaber</a>, <a href="https://sites.google.com/view/alessandrobondi/home">Alessandro Bondi</a>, <a href="https://www.linkedin.com/in/nathan-de-carvalho-phd">Nathan De Carvalho</a>, and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   <em>Finance and Stochastics</em>, to appear. [<a href= "https://arxiv.org/abs/2503.04323">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167824">SSRN</a>]</li>
   <li><b> Stochastic Graphon Games with Memory</b>, with <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2024. [<a href= "https://arxiv.org/abs/2411.05896">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014424">SSRN</a>]</li>
