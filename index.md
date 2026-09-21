@@ -17,7 +17,7 @@ My research interests lie in the areas of mathematical finance and stochastic pr
 ## Publications and Preprints
 
 <ol reversed>
-  <li><b> Optimal Execution with Passive Market Impact</b>, with <a href="https://yifanjiang233.github.io">Yifan Jiang</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
+  <li><b> Local-Global Convergence and Optimal Control on Graphings</b>, with <a href="https://yifanjiang233.github.io">Yifan Jiang</a> and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2026. [<a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7476398">SSRN</a>]</li>
   <li><b> Optimal Execution with Passive Market Impact</b>, with <a href="https://www.linkedin.com/in/alexander-barzykin-b430ab33/">Alexander Barzykin</a>, <a href="https://www.linkedin.com/in/robert-boyce-392546171/">Robert Boyce</a>, and <a href="https://eyaln13.wixsite.com/eyal-neuman">Eyal Neuman</a>.<br />
   Preprint, 2026. [<a href= "https://arxiv.org/abs/2607.28323">arXiv</a> | <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7147361">SSRN</a>]</li>
